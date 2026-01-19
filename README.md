@@ -11,8 +11,7 @@ This project is created as a **practice project** to understand full-stack deplo
 🔗 Live App  
  [ai-chatbott-indol.vercel.app ](https://ai-chatbott-indol.vercel.app/)
 
-🔗 API Endpoint  
-https://ai-chatbott-indol.vercel.app/api/chat  
+ 
 
 ---
 
